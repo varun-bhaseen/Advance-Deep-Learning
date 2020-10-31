@@ -1,2 +1,2 @@
 <h1>Multi-task Learning</h1>
-<p>
+<p>Here we will give a brief explanation of how Multi Task learning works. Multi task learning has an assumption that states that all tasks that is expected out of the Multi task model needs to have a shared characteristics. An example would be like: if our Neural network is predicting a text generation as one task then it needs to also predict sentiment analysis, topic modelling etc. in a shared enural network.<br><br> Below is the explanantion of the Neural Network that we have used for Multi Task learning: </p>
