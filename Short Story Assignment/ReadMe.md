@@ -3,4 +3,4 @@
 <p>https://varun-bhaseen.medium.com/nerf-neural-radiance-fields-79531da37734</p>
 
 Below is the Video link:  
-![Video_Recording](/Short Story Assignment/"Video Recording and explanation.mp4")  
+![Video_Recording](/"Video Recording and explanation.mp4")  
