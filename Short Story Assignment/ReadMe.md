@@ -7,4 +7,4 @@ Below is the Video link:
 
 
 Below is the SLideshare link:  
-![Slideshare Link](https://www2.slideshare.net/VarunBhaseen/understanding-neural-radiance-fields)
+https://www2.slideshare.net/VarunBhaseen/understanding-neural-radiance-fields
