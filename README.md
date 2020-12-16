@@ -7,3 +7,5 @@ Survey paper:
 https://arxiv.org/abs/2008.02268
 
 Title: NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections
+
+Check Short Story Assignment Directory for more details
